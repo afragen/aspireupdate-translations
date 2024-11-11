@@ -1,6 +1,6 @@
 # AspireUpdate Translations
 
-Translators, please make PRs here. You only need to submit PRs for the .po files, .mo files will be generated automatically. Please add the .po files to the `languages` folder. Thanks.
+Translators, please make PRs here. You only need to submit PRs for the .po files, .mo and .l10n.php files will be generated automatically. Please add the .po files to the `languages` folder. Thanks.
 
 Uses [`Language_Pack_Maker`](https://github.com/afragen/language-pack-maker) installed via composer to create a directory of zip archives of translation .mo/.po/.json files and a `language-pack.json` file containing data to pass to GitHub Updater.
 
